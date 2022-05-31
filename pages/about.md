@@ -21,5 +21,6 @@ In 1961, the Institute of Library Science was formally established, and a year a
 <p> In 1981, the Library Science Association was renamed as the Institute of Library Science Students' Association; and in 1983, the organization went on to be called as the Library and Information Science Students' Association. </p>
 <p> In 2002, UP LISSA and the Institute of Library and Information Science Student Council parted ways to pursue differing objectives, with UP LISSA pursuing a more academic-centered goal. </p>
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
+## About UP LISSA MEMOIRS PROJECT
+<p> INSERT PARAGRAPH HERE </p>
