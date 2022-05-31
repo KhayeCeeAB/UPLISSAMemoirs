@@ -28,8 +28,8 @@ In 1961, the Institute of Library Science was formally established, and a year a
 <p> Most of the photos and other documents from this collection have been obtained from UP LISSA’s official Facebook pages and photos by members taken from events conducted by UP LISSA. Majority of the creators of this project are members of UP LISSA, that is why getting consent and access to the needed materials were easy to obtain. </p>
 <p>Project Members:</p> <ul>
   <li> Khaye Cee Benedicto </li>
-	<li>Joseph Emmanuel S. Chan </li>
-	<li>Dominique De Guzman</li>
-	<li>Ralph Anthon Dela Torre</li>
-	<li>Rad Julongbayan</li>
+	<li><b>Joseph Emmanuel S. Chan</b> </li>
+	<li><b>Dominique De Guzman</b></li>
+	<li><b>Ralph Anthon Dela Torre</b></li>
+	<li><b>Rad Julongbayan</b></li>
 </ul>
