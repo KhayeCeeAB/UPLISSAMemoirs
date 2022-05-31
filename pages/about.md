@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://github.com/KhayeCeeAB/UPLISSAMemoirs/blob/main/objects/About_Page_Pic.png?raw=true" %}
 
-{% include feature/nav-menu.html sections="About UP LISSA;About the About Page" %}
+{% include feature/nav-menu.html sections="About UP LISSA;About UP LISSA MEMOIRS PROJECT" %}
 
 ## About UP LISSA
 
