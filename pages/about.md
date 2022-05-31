@@ -26,9 +26,10 @@ In 1961, the Institute of Library Science was formally established, and a year a
 <p> This website is a Digital Exhibit containing various collection of photos, documents, and histories of UP LISSA and was created in partial fulfillment of the requirements for the course CWTS 2 SLIS - Strengthening of a Barangay Library. </p>
 <p> The UP LISSA Memoirs collection aims to commemorate and promote the UP LISSA organization. This website will be beneficial to the organization since UP LISSA currently do not have one. This project however will not be the official website of UP LISSA but instead a project showcasing and celebrating the events and the members of UP LISSA throughout the years. </p>
 <p> Most of the photos and other documents from this collection have been obtained from UP LISSA’s official Facebook pages and photos by members taken from events conducted by UP LISSA. Majority of the creators of this project are members of UP LISSA, that is why getting consent and access to the needed materials were easy to obtain. </p>
-<p>Project Members:</p>
-<p>•	**Khaye Cee Benedicto**</p>
-<p>•	**Joseph Emmanuel S. Chan**</p>
-<p>•	**Dominique De Guzman**</p>
-<p>•	**Ralph Anthon Dela Torre**</p>
-<p>•	**Rad Julongbayan**</p>
+<p>Project Members:</p> <ul>
+  <li> Khaye Cee Benedicto </li>
+	<li>Joseph Emmanuel S. Chan </li>
+	<li>Dominique De Guzman</li>
+	<li>Ralph Anthon Dela Torre</li>
+	<li>Rad Julongbayan</li>
+</ul>
